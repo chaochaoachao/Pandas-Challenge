@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# Pandas-Challenge(see Report [HeroesOfPymoli])(https://github.com/chaochaoachao/Pandas-Challenge/blob/master/HeroesOfPymoli/Report%20for%20HeroesOfPymoli.pdf)
 
 In this project, I used Python, Jupyter Notebook, and the Pandas library to analyze user data for a video game company. 
 I used I analyzed data of in-game purchases by players. 
